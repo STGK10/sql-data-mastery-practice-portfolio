@@ -1,2 +1,51 @@
 # sql-data-mastery-practice-portfolio
-My personal Comprehensive SQL practice portfolio Laboratory for Data tracks. Solutions to advanced relational databases and query optimization tracks across major platforms: SQLZoo, SQL Bolt, PG Exercises, and SQL-EX. Focus on complex analytical queries, window functions, recursive CTEs, schema design constraints, and optimization.
+
+This repository contains my solutions to advanced and foundational SQL tracks across multiple interactive platforms. It serves as proof of competency for Data Analytics, Data Engineering, and Data Science tracks, focusing on multi-dialect proficiency (PostgreSQL, MS SQL Server, MySQL) and complex query optimization.
+
+## 🚀 Platforms Covered
+1. **SQL Bolt** — Foundational syntax & relational concepts.
+2. **SQL Zoo** — Multi-table joins, nested subqueries, and numeric aggregations.
+3. **SQL-Tutorial.ru (SQL-EX)** — High-difficulty problem sets (Computer Firm, Ships, Aeroflot databases) focused on window functions, CTEs, and procedural optimization.
+4. **PostgreSQL Exercises** — Practical execution of complex window operations, aggregation filters, and timestamp manipulation.
+
+## 🛠️ Core Skills Demonstrated
+* **Analytical SQL:** Window Functions (`ROW_NUMBER`, `RANK`, `LEAD/LAG`), CTEs (Common Table Expressions), and recursive queries.
+* **Data Engineering Preparedness:** DDL/DML execution, schema constraints (FK, PK, Check Constraints), data type casting, and schema design concepts.
+* **Dialects:** PostgreSQL, T-SQL (MS SQL Server).
+
+## 📂 Repository Structure
+* `/sql-bolt` - Basic to intermediate syntax execution.
+* `/sql-zoo` - Aggregations, nested queries, and relational operations.
+* `/sql-tutorial-ru` - Hard-core query optimization tasks and complex relational joins.
+* `/postgresql-exercises` - Strict Postgres-specific execution and timestamp manipulations.
+
+
+├── README.md
+├── sql-bolt/
+│   ├── README.md
+│   ├── lesson-01-select.sql
+│   ├── ...
+│   └── 
+├── sql-zoo/
+│   ├── 0-select-basics.sql
+│   ├── ...
+│   └── 
+├── sql-tutorial-ru/
+│   ├── scheme/     
+│   ├── computer-firm/
+│   │   ├── task-01.sql
+│   │   ├── ...
+│   │   └── 
+│   └── ships/
+│     ├── ...
+│       └── 
+└── postgresql-exercises/
+    ├── basic/
+    ├── ...
+    └── 
+
+## 💻 Tech Stack
+* **OS:** Ubuntu Linux
+* **IDE:** VS Code (integrated with PostgreSQL/SQL Server extensions)
+* **Version Control:** Git / GitHub
+
