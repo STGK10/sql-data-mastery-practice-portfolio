@@ -20,30 +20,6 @@ This repository contains my solutions to advanced and foundational SQL tracks ac
 * `/postgresql-exercises` - Strict Postgres-specific execution and timestamp manipulations.
 
 
-├── README.md
-├── sql-bolt/
-│   ├── README.md
-│   ├── lesson-01-select.sql
-│   ├── ...
-│   └── 
-├── sql-zoo/
-│   ├── 0-select-basics.sql
-│   ├── ...
-│   └── 
-├── sql-tutorial-ru/
-│   ├── scheme/     
-│   ├── computer-firm/
-│   │   ├── task-01.sql
-│   │   ├── ...
-│   │   └── 
-│   └── ships/
-│     ├── ...
-│       └── 
-└── postgresql-exercises/
-    ├── basic/
-    ├── ...
-    └── 
-
 ## 💻 Tech Stack
 * **OS:** Ubuntu Linux
 * **IDE:** VS Code (integrated with PostgreSQL/SQL Server extensions)
