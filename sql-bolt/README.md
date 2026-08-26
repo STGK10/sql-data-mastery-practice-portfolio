@@ -4,7 +4,7 @@ Source:  [sqlbolt.com](https://sqlbolt.com).
 
 ## Index
 
-00. [SQL into] (#00-SQL-intro)
+00. [SQL into](#00-SQL-intro)
 01. [SELECT Queries 101](#01-select-queries-101)
 02. [Queries With Constraints (Pt. 1)](#02-queries-with-constraints-pt-1)
 03. [Queries With Constraints (Pt. 2)](#03-queries-with-constraints-pt-2)
@@ -36,6 +36,7 @@ A relational database represent a collection of related 2D tables (similar to Ex
 For example, if the Department of Motor Vehicles had a database, you might find a table containing all the known vehicles that people in the state are driving. This table might need to store the model name, type, number of wheels, and number of doors of each vehicle for example.
 
 Table: Vehicules
+
 | ID | Model             | # Wheels |  # Doors |  Type      |
 |  1 | Ford Focus        |  4       |   4      | Sedan      |
 |  2 | Tesla Roadster    |  4       |   2      | Sports     |
