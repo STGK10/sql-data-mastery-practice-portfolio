@@ -4,7 +4,7 @@ Source:  [sqlbolt.com](https://sqlbolt.com).
 
 ## Index
 
-00. [SQL into] (#SQL-intro)
+00. [SQL into] (#00-SQL-intro)
 01. [SELECT Queries 101](#01-select-queries-101)
 02. [Queries With Constraints (Pt. 1)](#02-queries-with-constraints-pt-1)
 03. [Queries With Constraints (Pt. 2)](#03-queries-with-constraints-pt-2)
