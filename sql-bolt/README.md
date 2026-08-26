@@ -1,1 +1,1 @@
-
+# SQLBolt Practices Repository
