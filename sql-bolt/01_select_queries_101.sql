@@ -1,6 +1,3 @@
-SELECT * FROM movies
-
-
 --Find the title of each film
 SELECT 
     Title
@@ -8,19 +5,19 @@ FROM movies;
 
 --Find the director of each film
 SELECT 
-    director
+    Director
 FROM movies;
 
 --Find the title and director of each film
 SELECT 
-    title,
-    director
+    Title,
+    Director
 FROM movies;
 
 --Find the title and year of each film
 SELECT 
-    title,
-    year
+    Title,
+    Year
 FROM movies;
 
 --Find all the information about each film

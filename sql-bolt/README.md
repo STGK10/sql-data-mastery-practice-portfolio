@@ -82,7 +82,7 @@ We will be using a database with data about some of Pixar's classic movies for m
 
 Table: Movies
 
-| id | title | director | year | length_minutes |
+| id | Title | Director | Year | Length_minutes |
 | --:| :--- | :--- | ---: | -------------: |
 | 1 | Toy Story | John Lasseter | 1995 | 81 |
 | 2 | A Bug's Life | John Lasseter | 1998 | 95 |
@@ -115,7 +115,7 @@ FROM movies;
 2. Find the director of each film
 ```
 SELECT 
-    director
+    Director
 FROM movies;
 ```
 
@@ -123,16 +123,16 @@ FROM movies;
 3. Find the title and director of each film
 ```
 SELECT 
-    title,
-    director
+    Title,
+    Director
 FROM movies;
 ```
 
 4. Find the title and year of each film
 ```
 SELECT 
-    title,
-    year
+    Title,
+    Year
 FROM movies;
 ```
 
@@ -140,6 +140,8 @@ FROM movies;
 ```
 SELECT * FROM movies;
 ```
+
+
 
 
 
