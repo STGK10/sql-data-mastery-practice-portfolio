@@ -37,12 +37,12 @@ For example, if the Department of Motor Vehicles had a database, you might find 
 
 Table: Vehicules
 
-| ID | Model             | # Wheels |  # Doors |  Type      |
-|  1 | Ford Focus        |  4       |   4      | Sedan      |
-|  2 | Tesla Roadster    |  4       |   2      | Sports     |
-|  3 | Kawakasi Ninja    |  2       |   0      | Motorcycle |
-|  4 | McLaren Formula 1 |  4       |   0      | Race       |
-|  5 | Tesla S           |  4       |   4      | Sedan      |
+| ID | Model             | # Wheels |  # Doors |  Type      
+|  1 | Ford Focus        |  4       |   4      | Sedan      
+|  2 | Tesla Roadster    |  4       |   2      | Sports     
+|  3 | Kawakasi Ninja    |  2       |   0      | Motorcycle 
+|  4 | McLaren Formula 1 |  4       |   0      | Race       
+|  5 | Tesla S           |  4       |   4      | Sedan      
 
 
 In such a database, you might find additional related tables containing information such as a list of all registered drivers in the state, the types of driving licenses that can be granted, or even driving violations for each driver.
