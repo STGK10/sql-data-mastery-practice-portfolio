@@ -6,7 +6,7 @@ Source:  [sqlbolt.com](https://sqlbolt.com)
 
 00. [SQL into](#00-SQL-intro)
 01. [SELECT Queries 101](#01-select-queries-101)
-02. [Queries With Constraints](#02-queries-with-constraints
+02. [Queries With Constraints](#02-queries-with-constraints)
 03. [Filtering and Sorting Query Results](#04-filtering-and-sorting-query-results)
 04. [Simple SELECT Queries](#05-simple-select-queries)
 05. [Multi-table Queries With JOINs](#06-multi-table-queries-with-joins)
